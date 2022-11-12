@@ -1,6 +1,5 @@
 {
     "mapping": {
-        "Framework\\Dotenv\\": "..\\",
-        "Tests\\": ""
+        "Framework\\Dotenv\\": "..\\"
     }
 }

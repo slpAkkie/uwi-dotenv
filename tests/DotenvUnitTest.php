@@ -1,9 +1,7 @@
 <?php
 
-namespace Tests;
-
 use Framework\Dotenv\Dotenv;
-use Tests\Test;
+use TestModule\Test;
 
 class DotenvUnitTest
 {
