@@ -61,7 +61,7 @@ class Dotenv implements DotenvContract
      * @param string|null $default Значение по умолчанию.
      * @return string|null
      */
-    public function get(string $key, string|null $default = null): string|null
+    public function get(string $key, string|null $default = null): ?string
     {
         return $this->has($key)
             ? $this->envars[$key]
