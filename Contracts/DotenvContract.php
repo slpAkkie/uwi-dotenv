@@ -5,11 +5,6 @@ namespace Framework\Dotenv\Contracts;
 interface DotenvContract
 {
     /**
-     * Инициализация контейнера переменных окружения.
-     */
-    public function __construct();
-
-    /**
      * Устанавливает значения переменных окружения из массива.
      *
      * @param array<string, string> $vars Массив переменных окружения.
