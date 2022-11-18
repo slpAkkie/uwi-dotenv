@@ -1,8 +1,8 @@
 <?php
 
-namespace Framework\Dotenv;
+namespace Services\Dotenv;
 
-use Framework\Dotenv\Contracts\DotenvContract;
+use Services\Dotenv\Contracts\DotenvContract;
 
 class Dotenv implements DotenvContract
 {

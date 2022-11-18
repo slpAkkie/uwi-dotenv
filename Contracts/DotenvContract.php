@@ -1,6 +1,6 @@
 <?php
 
-namespace Framework\Dotenv\Contracts;
+namespace Services\Dotenv\Contracts;
 
 interface DotenvContract
 {

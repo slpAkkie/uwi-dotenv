@@ -1,6 +1,6 @@
 <?php
 
-use Framework\Dotenv\Dotenv;
+use Services\Dotenv\Dotenv;
 use TestModule\Test;
 
 class DotenvUnitTest
